@@ -11,5 +11,4 @@ total_list.sort()
 
 answer = ' '.join(map(str, total_list))
 print(answer)
-print("hello")
 
